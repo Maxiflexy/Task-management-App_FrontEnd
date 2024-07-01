@@ -1,4 +1,4 @@
-# week10-frontend
+# Task Management Application
 
 ## Color Scheme
 #00BFFF
